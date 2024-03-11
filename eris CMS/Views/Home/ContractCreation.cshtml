@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Cntract Creation";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+   
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .scrollbar {
+            overflow-y: scroll; 
+            height: 200px; 
+        }
+    </style>
+</head>
+<body>
+
+    
+
+  <div class="container-fluid">
+        <h2 class="text-center black-text text-info">Create New Contract</h2>
+        <h2> Contract Basic Information </h2>
+
+        <form>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                <label asp-for="ContractedParty"> Contracted Party: </label>
+                    <input asp-for="ContractedParty" type="text" class="form-control" id="Name" placeholder="Enter the Name">
+            </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="ContractType">Contract Type: </label>
+                    <input asp-for="ContractType" type="number" class="form-control" id="value" placeholder="Enter the value">
+            </div>
+
+                <div class="form-group col-md-6">
+                <label asp-for="ContractValue">Contract Value:</label>
+                    <input asp-for="ContractValue" type="text" class="form-control" id="Na" placeholder="">
+            </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="PaymentStructure">Payment Structure:</label>
+                    <input asp-for="PaymentStructure" type="text" class="form-control" id="Na" placeholder="">
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="StartDate">Start Date:</label>
+                    <input asp-for="StartDate" type="text" class="form-control" id="startDate" placeholder="Select start date" autocomplete="on">
+            </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="EndDate">End Date:</label>
+                    <input asp-for="EndDate" type="text" class="form-control" id="EndDate" placeholder="Select End date" autocomplete="on">
+                    </div>
+
+            </div>
+
+            <h2> Contract File </h2>
+            <div class="form-group">
+                <label asp-for="ContractFile">Contract Text:</label>
+                <textarea asp-for="ContractFile" class="form-control scrollbar" id="contractText" rows="12" placeholder="View contracts here" readonly></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Save as Template</button>
+
+            <button type="button" class="btn btn-secondary">Save</button>
+
+
+        </form>
+    
+  </div>
+
+
+
+</body>
+</html>

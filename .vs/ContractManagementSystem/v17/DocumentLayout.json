@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Contract-Creation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\views\\contract\\createcontract.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\views\\contract\\createcontract.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|c:\\users\\hp\\contract-creation\\contractmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6166FF09-85EE-4429-817B-B804038E9A8A}|ContractManagementSystem\\ContractManagementSystem.csproj|solutionrelative:contractmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\appsettings.json",
+              "RelativeToolTip": "ContractManagementSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T12:45:54.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ContractManagementSystem\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T06:15:54.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ContractManagementSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-11T06:15:17.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateContract.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Contract\\CreateContract.cshtml",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Views\\Contract\\CreateContract.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Contract\\CreateContract.cshtml",
+              "RelativeToolTip": "ContractManagementSystem\\Views\\Contract\\CreateContract.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwFsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T08:20:31.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Controllers\\ContractController.cs",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Controllers\\ContractController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Controllers\\ContractController.cs",
+              "RelativeToolTip": "ContractManagementSystem\\Controllers\\ContractController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:10:54.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ContractManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T08:04:07.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContractManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:22:53.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Models\\Contract.cs",
+              "RelativeToolTip": "ContractManagementSystem\\Models\\Contract.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:01:12.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Program.cs",
+              "RelativeToolTip": "ContractManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:53:58.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContractManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T05:21:18.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContractManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:47:08.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContractManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Contract-Creation\\ContractManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContractManagementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T05:21:15.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
